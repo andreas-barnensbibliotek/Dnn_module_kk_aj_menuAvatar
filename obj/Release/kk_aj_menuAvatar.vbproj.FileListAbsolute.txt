@@ -6,3 +6,11 @@ D:\wwwroot\dnndev_v9.me\DesktopModules\kk_aj_menuAvatar\obj\Release\kk_aj_menuAv
 D:\wwwroot\dnndev_v9.me\DesktopModules\kk_aj_menuAvatar\obj\Release\kk_aj_menuAvatar.dll
 D:\wwwroot\dnndev_v9.me\DesktopModules\kk_aj_menuAvatar\obj\Release\kk_aj_menuAvatar.xml
 D:\wwwroot\dnndev_v9.me\DesktopModules\kk_aj_menuAvatar\obj\Release\kk_aj_menuAvatar.pdb
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_menuAvatar.dll.config
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_menuAvatar.dll
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_menuAvatar.pdb
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_menuAvatar.xml
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_menuAvatar\obj\Release\kk_aj_menuAvatar.vbprojResolveAssemblyReference.cache
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_menuAvatar\obj\Release\kk_aj_menuAvatar.dll
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_menuAvatar\obj\Release\kk_aj_menuAvatar.xml
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_menuAvatar\obj\Release\kk_aj_menuAvatar.pdb
